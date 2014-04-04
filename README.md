@@ -5,5 +5,5 @@ A quick CracklePop Ruby program for Hacker School application submission and oth
 
 To run, go to terminal and enter: ruby crackle_pop.rb
 
-Make sure you are in the directory that contains the file: crackle_pop.rb
+*Make sure you are in the directory that contains the file before running: ruby crackle_pop.rb
 
